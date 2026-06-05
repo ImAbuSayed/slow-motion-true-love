@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-motion-true-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Slow Motion True Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-motion-true-love/) |
+| **Get License** | [Official Music Licensing for Slow Motion True Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-motion-true-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I want to lose the keys and lock the door
+> Let the fire burn down to the wood
+> Every time you touch me leaves me wanting more
+> Never thought a slow burn felt so good
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
