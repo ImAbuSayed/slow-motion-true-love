@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-motion-true-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Slow Motion True Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-motion-true-love/) |
+| **Get License** | [Obtain a Music License for Slow Motion True Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-motion-true-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9ff5ca8fc9ecb326c07d6933b28c2003402f28b373a83027060e32dcd5205411` |
 | **Timestamp** | June 05, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
